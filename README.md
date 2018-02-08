@@ -16,10 +16,14 @@ chmod +x INSTALL.py
       [ [ /  \/ _/
       _[ [ \  /_/
     
-    Command
-    -h help
-    set www.google.com # SETA uma url
-    
+    Command:
+      nano -m        Procura por email em um determinado site.
+      nano -S        Procura por subdiretorios no site.
+      host           Mostra o seu IP externo.
+      !btc           Mostra á cotação do BTC.
+      !nano          Mostra á cotação da Nano(XRB).
+      onedns-BETA    Faz um ataque de força bruta utilizando um dicionario para achar DNS.
+      
     8 Ferv 2018 - 04:28
     
     
