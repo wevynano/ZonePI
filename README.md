@@ -9,8 +9,8 @@ chmod +x INSTALL.py
       /\   /\   
      //\\_//\\     ____
      \_     _/    /   /
-      / * * \    /^^^]
-      \_\O/_/    [   ]
+      / * * \    /^^^]              * PIZone - BETA v0.1
+      \_\O/_/    [   ]              * https://www.facebook.com/Wevy-Nano-180353202569372/
       /   \_    [   /
       \     \_  /  /
       [ [ /  \/ _/
